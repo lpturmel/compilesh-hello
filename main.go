@@ -9,7 +9,7 @@ import (
 	"os"
 )
 
-var version = "v2"
+var version = "v3"
 
 func main() {
 	port := os.Getenv("PORT")
